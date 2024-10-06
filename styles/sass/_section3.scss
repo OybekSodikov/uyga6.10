@@ -1,0 +1,31 @@
+.section3{
+    background-color: white;
+    padding: 100px 320px;
+    div{
+        background: rgba(244, 243, 240, 1);
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        padding: 80px;
+        h2{
+            font-family: Roboto;
+            font-size: 28px;
+            font-weight: 400;
+            line-height: 33.6px;
+            text-align: left;
+            color: rgba(41, 44, 50, 1);
+            // margin-right: 200px;
+
+        }
+        button{
+            background: rgba(58, 95, 86, 1);
+            padding: 0px 25px;
+            color: white;
+            margin-left: 240px;
+            height: 58px;
+            border: none;
+            border-radius: 6px;
+            
+        }
+    }
+}

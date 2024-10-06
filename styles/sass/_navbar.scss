@@ -1,0 +1,30 @@
+nav {
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  ul {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 570px;
+    gap: 20px;
+    li {
+      a {
+        text-decoration: none;
+        color: rgba(58, 95, 86, 1);
+      }
+    }
+  }
+  button {
+    background: rgba(58, 95, 86, 1);
+    display: flex;
+    justify-content: space-around;
+    gap: 8px;
+    border-radius: 6px;
+    border: none;
+    padding: 14px 18px;
+    color: white;
+    align-items: center;
+  }
+  padding: 13px 136px;
+}

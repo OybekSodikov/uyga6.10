@@ -1,0 +1,24 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+@import "navbar";
+@import "mainsection";
+@import "section1";
+@import "section2";
+@import "section3";
+@import "footer";
+
+body {
+  background-color: rgb(189, 189, 185);
+}
+
+.container {
+  width: 1440px;
+  margin: 0px auto;
+}
+a{
+    text-decoration: none;
+    
+}

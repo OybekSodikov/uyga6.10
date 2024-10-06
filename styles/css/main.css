@@ -284,7 +284,6 @@ li {
 
 button:hover {
   cursor: pointer;
-  transition: 0.3s;
-  background-color: rgb(130, 23, 23);
   transform: scale(1.05);
+  transition: 0.5s;
 }/*# sourceMappingURL=main.css.map */
